@@ -1,1 +1,3 @@
 # Binary_Search
+
+## algorithm 
